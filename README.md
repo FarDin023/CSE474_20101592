@@ -1,1 +1,1 @@
-# CSE474-Lab-1
+# CSE474 LABS
